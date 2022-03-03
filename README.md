@@ -12,7 +12,7 @@ This is my first data analysis project. It's the final project of a program call
 
 Today the project it's in Spanish but it may that I would translate it in English. 
 
-## 🔗 Link
+## 🔗 Links
 
 Finally I would like share some links to see the proyect directly. The first is the link of github and the second is of deepnote, which is the platform that I developed it.
 
